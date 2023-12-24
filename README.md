@@ -1,6 +1,6 @@
 # Acquiring & processing information on the world's largest banks
 
-- 1- Extract real-world data from a public website using WebScraping and Requests API in Python
+- 1- Extract real-world data from a public website using WebScraping and Requests API in Python /n
   (Extract the list of the top 10 largest banks in the world ranked by market capitalization in billion USD,
   URL: https://web.archive.org/web/20230908091635 /https://en.wikipedia.org/wiki/List_of_largest_banks )
 - 2- Transform the data as per the problem statement
