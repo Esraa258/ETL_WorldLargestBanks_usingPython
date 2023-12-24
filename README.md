@@ -1,5 +1,7 @@
 # Acquiring & processing information on the world's largest banks
 
+- Libraries used: Pandas, NumPy, BeautifulSoup, Requests, SQLite3, Datetime
+  
 - 1- Extract real-world data from a public website using WebScraping and Requests API in Python 
   (Extract the list of the top 10 largest banks in the world ranked by market capitalization in billion USD, 
   URL: https://web.archive.org/web/20230908091635 /https://en.wikipedia.org/wiki/List_of_largest_banks )
@@ -9,5 +11,3 @@
 - 4- Load the data in an SQLite database for further processing and querying
 - 5- Query the database to retrieve filtered information from the table
 - 6- Log the entire process of execution
-
-- Libraries used: Pandas, NumPy, BeautifulSoup, Requests, SQLite3, Datetime
