@@ -1,6 +1,13 @@
 # Acquiring & processing information on the world's largest banks
 
 - Libraries used: Pandas, NumPy, BeautifulSoup, Requests, SQLite3, Datetime
+- requests: used for accessing the information from the URL.
+- bs4: The library containing the BeautifulSoup function used for web scraping.
+- pandas: used for processing the extracted data, storing it to required formats, and communicating with the databases.
+- SQLite3: The library required to create a database server connection.
+- NumPy: The library required for the mathematical rounding operation.
+- datetime: The library containing the function datetime used for extracting the timestamp for logging purposes.
+
   
 - 1- Extract real-world data from a public website using WebScraping and Requests API in Python              
   (Extract the list of the top 10 largest banks in the world ranked by market capitalization in billion USD)       
