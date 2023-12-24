@@ -10,5 +10,4 @@
  5- Query the database to retrieve filtered information from the table
  6- Log the entire process of execution
 
-  
 - Libraries used: Pandas, NumPy, BeautifulSoup, Requests, SQLite3, Datetime
