@@ -7,7 +7,7 @@
   SQLite3: The library required to create a database server connection.                                                   
   NumPy: The library required for the mathematical rounding operation.                                                         
   datetime: The library containing the function datetime used for extracting the timestamp for logging purposes.
------------------------------------------------------------------------------------------------------------------------------
+############################################################################################################################
   
 - 1- Extract real-world data from a public website using WebScraping and Requests API in Python              
   (Extract the list of the top 10 largest banks in the world ranked by market capitalization in billion USD)       
